@@ -6,7 +6,7 @@ This is a demo project for DevOpsSchool.com classroom execise
 
 <<<<<<< HEAD
 
-Aditya Koppula edited
+This is Aditya
 =======
 =======
 This is added by Neetha
