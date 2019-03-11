@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 shahbaz TT master.....
 Thank you !!!
 Let have tea break
@@ -7,6 +8,9 @@ Let have tea break
 
 birdie told me someone is boycotting
 
+=======
+plz give tea break !!!
+>>>>>>> 67d7b175ccf008adab4969c0c371bab9d50d4135
 
 
 >>>>>>> 81148967ade63b4ce50c57679230ed977c19b445
