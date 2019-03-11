@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 DONE FOR THE DAY!!!!
+=======
+Stupid hike
+Stupid everything
+
+>>>>>>> 25035ea3efe8b8a4fd294b25d69f0cfe299f9335
